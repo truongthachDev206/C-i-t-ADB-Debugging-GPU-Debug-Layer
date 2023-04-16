@@ -1,18 +1,35 @@
 # C-i-t-ADB-Debugging-GPU-Debug-Layer
-Nội dung và mã mẫu trên trang này phải tuân thủ các giấy phép như mô tả trong phần Giấy phép nội dung của Github. Java và OpenJDK là nhãn hiệu hoặc nhãn hiệu đã đăng ký của Android Developer hoặc đơn vị liên kết của Trương Văn Thạch ✓.
 
-# Cài Đặt Chế Độ Hiệu Suất Cao Bằng USB && WIFI ADB Debugging ✓
+- Hướng Dẫn Cài Đặt Trình Gỡ Lỗi ADB Bằng USB && Bật Tính Năng Lớp Gỡ Lỗi GPU Layer® 
+
+# Fllow Me { FaceBook }
+ 
+- https://facebook.com/truongthach.info
+
+# Hotline Support ( 7H00 - 23H00 )
+
+- 0354073192 
+
+# USB && WIFI ADB Debugging 
 
 - Cầu Gỡ lỗi ADB Không Dây 
 
-Android Developers
+Qualcomm Snapdragon && Mediatek 
 
-Android Developers
+Hisilicon Kirin && Dimensity 
+
+- Arm Cortex v7a && v8a 64Bit
+
+Android Developers™
 
 Android Studio
 
+Trương Văn Thạch ^⁠_⁠_⁠_⁠_⁠_⁠_⁠_⁠_⁠_⁠^
 
-Cầu gỡ lỗi Android (adb) là một công cụ dòng lệnh linh hoạt cho phép bạn giao tiếp với thiết bị.
+Copyright to Truong Van Thach (⁠人⁠ ⁠•͈⁠ᴗ⁠•͈⁠)
+
+
+# Cầu gỡ lỗi Android (adb) là một công cụ dòng lệnh linh hoạt cho phép bạn giao tiếp với thiết bị.
 
 Lệnh adb hỗ trợ nhiều thao tác trên thiết bị, chẳng hạn như cài đặt và gỡ lỗi ứng dụng. adb cung cấp quyền truy cập vào một shell Unix mà bạn có thể dùng để chạy nhiều lệnh trên thiết bị. Đây là một chương trình ứng dụng-máy chủ bao gồm ba thành phần:
 
