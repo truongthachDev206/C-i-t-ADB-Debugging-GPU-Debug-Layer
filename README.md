@@ -1,5 +1,7 @@
 # C-i-t-ADB-Debugging-GPU-Debug-Layer
 
+![images](https://user-images.githubusercontent.com/124237454/232336570-02502f73-ccf3-43b6-b418-de45b50b6b03.svg)
+
 - Hướng Dẫn Cài Đặt Trình Gỡ Lỗi ADB Bằng USB && Bật Tính Năng Lớp Gỡ Lỗi GPU Layer® 
 
 # Fllow Me { FaceBook }
