@@ -2,6 +2,10 @@
 
 ![images](https://user-images.githubusercontent.com/124237454/232336570-02502f73-ccf3-43b6-b418-de45b50b6b03.svg)
 
+Thạch Yêu Ngân ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+
+![images](https://user-images.githubusercontent.com/124237454/232380554-b22b2d89-07be-416f-904e-500bc50af21b.jpeg)
+
 - Hướng Dẫn Cài Đặt Trình Gỡ Lỗi ADB Bằng USB && Bật Tính Năng Lớp Gỡ Lỗi GPU Layer® 
 
 # Follow Me { Facebook }
@@ -28,7 +32,7 @@ Android Studio
 
 Trương Văn Thạch ^⁠_⁠_⁠_⁠_⁠_⁠_⁠_⁠_⁠_⁠^
 
-Copyright to Truong Van Thach (⁠人⁠ ⁠•͈⁠ᴗ⁠•͈⁠)
+Copyright to Truong Van Thach ®
 
 
 # Cầu gỡ lỗi Android (adb) là một công cụ dòng lệnh linh hoạt cho phép bạn giao tiếp với thiết bị.
