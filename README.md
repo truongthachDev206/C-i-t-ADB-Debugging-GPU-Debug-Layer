@@ -2,7 +2,7 @@
 
 ![images](https://user-images.githubusercontent.com/124237454/232336570-02502f73-ccf3-43b6-b418-de45b50b6b03.svg)
 
-Thạch Yêu Ngân ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+ - T❤️N T❤️N Thạch Yêu Ngân ❤️
 
 ![images](https://user-images.githubusercontent.com/124237454/232380554-b22b2d89-07be-416f-904e-500bc50af21b.jpeg)
 
